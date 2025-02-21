@@ -1,3 +1,5 @@
+[<< Previous](https://eclairjit.github.io/intro-to-operations-management/5_Operations_Strategy)
+
 # The Role of Technology in Operations Management - Detailed Notes
 
 ## 1. Introduction to Technology in OM
@@ -134,3 +136,5 @@
 - Key innovations include automation, ERP, AI, and self-service technologies.
 - Digital transformation enables businesses to compete in a global marketplace.
 - Companies must balance technology adoption with usability, security, and customer needs.
+
+[Next >>](https://eclairjit.github.io/intro-to-operations-management/7_The_Service_Encounter)

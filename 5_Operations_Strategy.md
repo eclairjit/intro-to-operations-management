@@ -1,3 +1,5 @@
+[<< Previous](https://eclairjit.github.io/intro-to-operations-management/4_Relevance_of_Operations_Management)
+
 # Operations Strategy - Detailed Notes
 
 ## 1. Introduction to Operations Strategy
@@ -136,3 +138,5 @@
 - Trends like globalization, technology, and sustainability are reshaping operations strategies.
 - Balancing cost, quality, flexibility, and speed is key to modern operational success.
 - Integration of services and manufacturing enhances customer satisfaction and business resilience.
+
+[Next >>](https://eclairjit.github.io/intro-to-operations-management/6_Technology_in_Operations_Management)

@@ -1,3 +1,5 @@
+[<< Previous](https://eclairjit.github.io/intro-to-operations-management/1_Role_of_Services_in_the_Economy)
+
 # The Nature of Services
 
 ## 1. Service-Product Bundle
@@ -156,3 +158,5 @@
 - Employee training and positive attitude are critical to service quality.
 - The service process itself is a major part of the final product.
 - Understanding customer expectations and adapting to them ensures long-term success in service industries.
+
+[Next >>](https://eclairjit.github.io/intro-to-operations-management/3_Service_Strategy)

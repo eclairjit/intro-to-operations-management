@@ -1,3 +1,5 @@
+[<< Previous](https://eclairjit.github.io/intro-to-operations-management/3_Service_Strategy)
+
 # Relevance of Operations Management - Detailed Notes
 
 ## 1. Introduction to Operations Management (OM)
@@ -153,3 +155,5 @@
 - Integrates manufacturing and services for overall business success.
 - Evolving with globalization and technological advancements.
 - Focus on sustainability and quality improvements in modern OM.
+
+[Next >>](https://eclairjit.github.io/intro-to-operations-management/5_Operations_Strategy)

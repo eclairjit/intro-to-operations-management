@@ -1,3 +1,5 @@
+[<< Previous](https://eclairjit.github.io/intro-to-operations-management/6_Technology_in_Operations_Management)
+
 # The Service Encounter - Detailed Notes
 
 ## 1. Introduction to the Service Encounter

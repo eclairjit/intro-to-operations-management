@@ -1,3 +1,5 @@
+[<< Previous](https://eclairjit.github.io/intro-to-operations-management/2_Nature_of_services)
+
 # Service Strategy - Detailed Notes
 
 ## 1. Competitive Environment of Services
@@ -150,3 +152,5 @@
 - Strategic planning tools like SWOT and Five Forces analysis help assess competitiveness.
 - Information technology is a key driver of competitive advantage in modern services.
 - World-class service firms define industry standards and focus on continuous improvement.
+
+[Next >>](https://eclairjit.github.io/intro-to-operations-management/4_Relevance_of_Operations_Management)

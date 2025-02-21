@@ -1,3 +1,5 @@
+[<< Previous](https://eclairjit.github.io/intro-to-operations-management)
+
 # The Role of Services in the Economy - Detailed Notes
 
 ## 1. Understanding Services
@@ -117,3 +119,5 @@
 - **Aging Population:** Demand for healthcare, financial planning, and wellness services will rise.
 - **Investment Management:** Shift from pensions to defined contribution plans increases demand for financial advisory services.
 - **Leisure Economy:** More disposable income and free time drive demand for travel, hospitality, and entertainment services.
+
+[Next >>](https://eclairjit.github.io/intro-to-operations-management/2_Nature_of_services)
